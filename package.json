@@ -36,6 +36,8 @@
     "ember-data": "^2.0.0",
     "ember-data-fixture-adapter": "1.13.0",
     "ember-disable-proxy-controllers": "^1.0.0",
-    "ember-export-application-global": "^1.0.4"
-  }
+    "ember-export-application-global": "^1.0.4",
+    "ember-cli-deploy": "https://github.com/ember-cli/ember-cli-deploy.git#0.5.0-dev",
+    "ember-deploy-github": "https://github.com/dukex/ember-deploy-github.git#ember-deploy-0.5"
+     }
 }
