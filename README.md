@@ -1,5 +1,11 @@
 # Todos
 
+This is an example of todo-mvc app using [ember-cli-deploy](https://github.com/ember-cli/ember-cli-deploy) with [ember-deploy-github](https://github.com/dukex/ember-deploy-github) adapter to see this app run on github pages please go to [dukex.github.io/ember-cli-deploy-github-example](http://dukex.github.io/ember-cli-deploy-github-example)
+
+
+
+## Original README contents
+
 This is an example of the todo-mvc app, it aims to trail ember-cli and ember.js's latest stable conventions. To view a project more on the bleeding edge, feel to pop over and check out [ember-jobs](https://github.com/stefanpenner/ember-jobs)
 
 ## Prerequisites
@@ -49,4 +55,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
