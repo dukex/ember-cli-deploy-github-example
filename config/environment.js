@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'todos',
     environment: environment,
-    baseURL: '/',
+    baseURL: '/ember-cli-deploy-github-example',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
